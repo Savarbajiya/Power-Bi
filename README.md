@@ -2,6 +2,8 @@
 Power Bi
 
 ![{DCBB33C6-BA25-436E-B785-158BD30BA0A6}](https://github.com/user-attachments/assets/2066905e-2573-48bb-92e9-e2ad7ddbf539)
+![{6C2EC7A3-EDE8-4BD7-804A-B9AB5BAD7EFC}](https://github.com/user-attachments/assets/61ba8a8f-bdf0-427d-a844-4db7d3d2b1d2)
+
 
 E-Commerce-Sales-Data-Analysis-Using Power BI
 
